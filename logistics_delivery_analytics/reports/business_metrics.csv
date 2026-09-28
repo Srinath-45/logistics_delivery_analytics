@@ -1,0 +1,9 @@
+metric,value
+total_orders,4963.0
+on_time_rate,76.06286520249849
+average_delivery_days,5.625629659480153
+average_delay_days,0.7050171267378602
+average_logistics_cost,2654.3443451541407
+average_customer_rating,4.122506548458594
+damage_rate,0.0
+return_rate,0.0
